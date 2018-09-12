@@ -21,6 +21,7 @@ Vagrant.configure("2") do |config|
   s.path ="provision.sh"
 
 end
+
 end
 
 
