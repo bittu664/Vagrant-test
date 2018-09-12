@@ -5,7 +5,7 @@
 2) after that we need to install vagrant ubuntu box for accesing the vagrant
 3) so make the new folder and name it anything you want 
 4) After that go to terminal and go to that dir that you were recently created 
-5) and type comand vagrant init  ( So by douing this the vagrant file will generate and you have to past some code in the vagrant file)
+5) and type comand vagrant init  ( So by doing this the vagrant file will generate and you have to paste some code in the vagrant file)
 
 6) ######### Vagrant configuration ################################### 
 
